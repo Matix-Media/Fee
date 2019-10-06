@@ -6,3 +6,8 @@ Fee is a free, alternative Explorer for the command line of Windows
 To install copy the fee.exe file in the 
 C:\Windows\System32 
 folder.
+
+## Images
+![Fee default](https://github.com/Matix-Media/Fee/blob/master/docs/imgs/Anmerkung%202019-10-07%20010111.png)
+![Fee local path](https://github.com/Matix-Media/Fee/blob/master/docs/imgs/Anmerkung%202019-10-07%20010111-2.png)
+![Fee full path](https://github.com/Matix-Media/Fee/blob/master/docs/imgs/Anmerkung%202019-10-07%20010111-3.png)
